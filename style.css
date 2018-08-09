@@ -1,0 +1,47 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper {
+    width: 800px;
+    padding: 20px;
+    background-color: #d4d2ae;
+    overflow: hidden;
+    height: auto;
+}
+#header {
+    width: 510px;
+    margin: 0 auto;
+    display: block;
+}
+#content {
+    margin: 0 auto;
+    width: 710px;
+    display: block;
+}
+div {
+    display:inline-block;
+}
+img {
+    width: 100px;
+}
+.headImg img {
+    background-color: white;
+    height: 50px;
+}
+h1 {
+    display: inline-block;
+}
+.blue {
+    background-color: #82b3ed;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 2.5x
+}
+.red {
+    background-color: #e97576;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 2.5px;
+}
